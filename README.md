@@ -8,6 +8,7 @@ Nắm bắt ý tưởng ngay khi cảm hứng vừa đến. Sử dụng ghi chú
 <br>
 # Hình ảnh minh hoạ
 <br>
-![image](https://user-images.githubusercontent.com/75366637/169442668-517f2c8a-47a2-41df-95bc-fda9f3270ebb.png)
-![image](https://user-images.githubusercontent.com/75366637/169442770-d8bbbcf5-d9f9-46b9-9889-76f76244d026.png)
-![image](https://user-images.githubusercontent.com/75366637/169442835-cfd76cde-ca91-4297-b103-4bee872064da.png)
+![image](https://user-images.githubusercontent.com/75366637/169443058-b11657b2-8864-48dc-9b4b-a7e3229b1836.png)
+![image](https://user-images.githubusercontent.com/75366637/169443102-68bf89df-87a7-41df-9d06-f8627547569c.png)
+![image](https://user-images.githubusercontent.com/75366637/169443127-520571b8-b724-4041-8197-875f46594da1.png)
+
