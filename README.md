@@ -9,6 +9,9 @@ Nắm bắt ý tưởng ngay khi cảm hứng vừa đến. Sử dụng ghi chú
 # Hình ảnh minh hoạ
 <br>
 ![image](https://user-images.githubusercontent.com/75366637/169443058-b11657b2-8864-48dc-9b4b-a7e3229b1836.png)
+<br>
 ![image](https://user-images.githubusercontent.com/75366637/169443102-68bf89df-87a7-41df-9d06-f8627547569c.png)
+<br>
 ![image](https://user-images.githubusercontent.com/75366637/169443127-520571b8-b724-4041-8197-875f46594da1.png)
+<br>
 
