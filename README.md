@@ -8,6 +8,7 @@ Nắm bắt ý tưởng ngay khi cảm hứng vừa đến. Sử dụng ghi chú
 <br>
 # Hình ảnh minh hoạ
 <br>
+<img src="[link](https://user-images.githubusercontent.com/75366637/169443058-b11657b2-8864-48dc-9b4b-a7e3229b1836.png)" />
 ![image](https://user-images.githubusercontent.com/75366637/169443058-b11657b2-8864-48dc-9b4b-a7e3229b1836.png)
 <br>
 ![image](https://user-images.githubusercontent.com/75366637/169443102-68bf89df-87a7-41df-9d06-f8627547569c.png)
