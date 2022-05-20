@@ -7,8 +7,7 @@ Nắm bắt ý tưởng ngay khi cảm hứng vừa đến. Sử dụng ghi chú
 Ứng dụng này chỉ phục vụ cho một mục đích. Nếu cần ghi chú nhanh và tạm thời, đây là ứng dụng hoàn hảo.
 <br>
 # Hình ảnh minh hoạ
+<br>
 ![image](https://user-images.githubusercontent.com/75366637/169442668-517f2c8a-47a2-41df-95bc-fda9f3270ebb.png)
-<br>
 ![image](https://user-images.githubusercontent.com/75366637/169442770-d8bbbcf5-d9f9-46b9-9889-76f76244d026.png)
-<br>
 ![image](https://user-images.githubusercontent.com/75366637/169442835-cfd76cde-ca91-4297-b103-4bee872064da.png)
